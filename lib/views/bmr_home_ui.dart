@@ -115,7 +115,7 @@ class _HomeUIState extends State<HomeUI> {
                   
                 ),
                 
-                Text('     ชาย'),
+                Text('ชาย'),
                 SizedBox(width: 40),
                 Checkbox(
                   value: isFemale,
@@ -127,7 +127,7 @@ class _HomeUIState extends State<HomeUI> {
                     });
                   },
                 ),
-                Text('    หญิง'),
+                Text('หญิง'),
               ],
             ),
             SizedBox(height: 20),
